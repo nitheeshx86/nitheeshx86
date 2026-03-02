@@ -2,66 +2,17 @@
 
 ---
 
-# Hello.
+# Hellooo
 
-I build things because I am curious.
+I build things because I am curious. Not because they are trending, not because they are profitable, and certainly not because they will look impressive somewhere. If I am working on something, it is because I genuinely enjoy it. I do not do things I don’t enjoy. Life is too short for performative effort.
 
-Not because they are trending.  
-Not because they are profitable.  
-Not because they will look impressive somewhere.
+Science, to me, is not a discipline confined to classrooms or laboratories. It is a way of looking at the world. A bias toward questioning. A refusal to accept surface explanations. I believe deeply in the right to research, to investigate, to explore ideas simply because they are interesting. Curiosity is not a distraction — it is the engine.
 
-If I am working on something, it is because it pulled me in.
+I like learning random things. Not for utility, not for credentials, but for expansion. An obscure protocol, a strange hardware behaviour, an old research paper, a system that nobody optimised properly. Knowledge compounds in quiet ways. Something learned out of pure curiosity today becomes unexpectedly useful years later.
 
----
+If something exists, I want to know how it works. If it works, I want to know why. If it fails, I want to understand where. And if it can be improved, I want to attempt it.
 
-## Curiosity is not a hobby.  
-It is a bias.
-
-Science, to me, is not confined to classrooms or laboratories.  
-It is a way of looking at the world.
-
-A quiet refusal to accept surface explanations.  
-A habit of asking *why* one more time than necessary.
-
-If something exists — I want to know how it works.  
-If it works — I want to know why.  
-If it fails — I want to know where.  
-If it can be improved — I want to try.
-
----
-
-## I learn random things.
-
-Not for utility.  
-Not for credentials.  
-But for expansion.
-
-An obscure protocol.  
-A strange hardware behavior.  
-An old research paper.  
-A system nobody optimized properly.
-
-Knowledge compounds silently.
-
-Something learned out of pure curiosity today  
-becomes unexpectedly useful years later.
-
----
-
-## What you’ll find here
-
-- Experiments  
-- Systems  
-- Attempts  
-- Half-finished explorations  
-- Over-engineered solutions  
-- Questions disguised as code  
-
-Some polished.  
-Some abandoned.  
-All intentional.
-
----
+This GitHub is not a portfolio curated for applause. It is a record of things I enjoyed thinking about. Experiments. Systems. Attempts. Some polished, some unfinished. All honest.
 
 ```
 If it’s here,
