@@ -18,5 +18,4 @@ This GitHub is not a portfolio curated for applause. It is a record of things I 
 If it’s here,
 it meant something to me.
 ```
-
-And that is enough.
+Ba Bye.
