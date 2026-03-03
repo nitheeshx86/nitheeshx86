@@ -12,7 +12,7 @@ I like learning random things. Not for utility, not for credentials, but for exp
 
 If something exists, I want to know how it works. If it works, I want to know why. If it fails, I want to understand where. And if it can be improved, I want to attempt it.
 
-This GitHub is not a portfolio curated for applause. It is a record of things I enjoyed thinking about. Experiments. Systems. Attempts. Some polished, some unfinished. All honest.
+This GitHub is a record of things I enjoyed thinking about. Experiments. Systems. Attempts. Some polished, some unfinished. All honest.
 
 ```
 If it’s here,
