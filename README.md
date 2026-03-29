@@ -22,49 +22,29 @@
 
 ---
 
-There is a particular kind of technology that earns its place — not because it is clever, but because someone actually needed it. A researcher who no longer has to wrestle with data she cannot visualise. A drug candidate that clears validation because the search space was narrowed in the right direction. A student who finds a seat in the library without walking every floor first. These are small things. But small things, reliably solved, have a way of compounding.
+My uncle handed me his bricked Samsung Galaxy Note 4 when I was in 4th standard. Said I could keep it if I fixed it. I did not know what I was doing. I looked things up, found forums, flashed the firmware, and got it back to a stable OS. I had the coolest phone in my entire childhood gang for the next two years.
 
-That is the thread running through everything I build. I am not interested in technology for its own sake. I am interested in the gap between a hard problem and the person trying to solve it — and in whether software can make that gap smaller. Sometimes it can. When it does, the work feels worth it.
+That same year, I put CyanogenMod on my Micromax phone, changed the boot animation, and replaced the boot sound with Rajini Murugan — which was, at the time, the only correct choice. Nobody asked me to do any of this. That is the part I keep coming back to.
 
-I am a first-year ECE student at VIT Chennai. I have been a research intern, an event lead, a quantum hackathon winner, and a UN Millennium Fellow. I have built tools used in clinical settings, shipped software to pharmaceutical companies, and delivered sessions on quantum computing to participants across four continents. None of that was planned. Most of it started with a problem that needed solving and enough stubbornness to see it through.
+In 8th grade, I built a smart speaker using the Amazon Alexa API. I made a projector out of a cardboard box. I built a rubber band gun from paper just to see if it would work. I hacked my Redmi fitness band and programmed custom animations on it because the default ones were boring and the hardware was just sitting there, asking to be opened.
+
+None of this was for a grade or a certificate. It was just the most natural thing in the world to do with technology — take it apart, understand it, make it do something it was not doing before.
+
+I am still doing the same thing. The tools are more serious now. The problems have higher stakes. But the instinct is identical to the kid who flashed firmware on a bricked phone because someone said it could not be done.
+
+What a thing it is, to get to do this for a living.
 
 ---
 
 ## What I've actually shipped
 
-### LithoMap — Clinical Research Data Visualization Platform
-> *Used daily by researchers at Government Stanley Medical College*
+**LithoMap** — 3D visualization platform for FTIR spectroscopy data, used daily by researchers at Government Stanley Medical College. Interfaces with equipment valued at over ₹1 crore. `Python` `3D Visualization` `Clinical Research`
 
-Built a production-grade application that encodes and visualizes FTIR spectroscopy data from kidney and gallbladder stones into structured 3D spatial records. The software interfaces with FTIR systems valued at over ₹1 crore. Identified real bottlenecks in clinical data sharing, designed around them, and deployed something people actually use. Also entrusted with training postgraduate students on the system — clinical environments do not leave room for imprecision.
+**Drug Explorer** — One of five internal tools built at MedX AI, now outsourced to major pharmaceutical companies. Converts SMILES data into binding affinity and drug synergy insights. One candidate I helped identify targeting menopausal hot flashes has cleared wet-lab validation. `Python` `Computational Chemistry` `Drug Discovery`
 
-`Python` `3D Visualization` `FTIR Data` `Clinical Research`
+**Quantum Fraud Detection** — Privacy-first fraud detection using quantum federated ML, built at Qinnovision 2025, NYU Abu Dhabi. The constraint was the interesting part. `Quantum ML` `Federated Learning` `PyTorch`
 
----
-
-### Drug Explorer — MedX AI Internal Tool
-> *Now outsourced to major pharmaceutical companies*
-
-One of five internal tools built during 1.5 years at MedX AI. Drug Explorer converts SMILES data inputs into actionable insights — binding affinity, drug synergy — for faster decision-making in computational drug discovery workflows. Collaborated with 20+ pharmaceutical clients including OmniActive. One drug candidate I contributed to identifying, targeting menopausal hot flashes, has cleared wet-lab validation and is progressing toward clinical trials. You do not always see where the thread leads. This one, I did.
-
-`Python` `Computational Chemistry` `Agile` `Drug Discovery`
-
----
-
-### Financial Fraud Detection System
-> *Qinnovision 2025, NYU Abu Dhabi*
-
-Built a privacy-first fraud detection system using quantum federated machine learning to identify anomalous transactions — without centralising sensitive data. The kind of problem where the constraint is the interesting part.
-
-`Quantum ML` `Federated Learning` `PyTorch` `Privacy-First Design`
-
----
-
-### ML Library Seat Occupancy System
-> *Deployed. Actually used. VP Award for it.*
-
-Real-time system to track and visualise seat availability across the VIT campus library. Earned the Vice President's Feather-in-the-Cap Award at VIT. Small problem, clean solution, real deployment. Those three things together are rarer than they sound.
-
-`Computer Vision` `ML` `Real-Time Systems` `Python`
+**ML Library Seat Locator** — Real-time seat availability tracker, deployed in the VIT campus library. Small problem. Clean solution. Actually used. VP Award for it. `Computer Vision` `Python`
 
 ---
 
@@ -128,14 +108,6 @@ Real-time system to track and visualise seat availability across the VIT campus 
 </picture>
 
 </div>
-
----
-
-## Currently
-
-- B.Tech in Electronics and Communication Engineering @ VIT Chennai (2024–2028)
-- Building at the intersection of research and product
-- Always looking for the next room that demands more
 
 ---
 
