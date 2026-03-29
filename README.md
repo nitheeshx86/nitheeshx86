@@ -21,7 +21,7 @@
 
 ---
 
-# Hi, I'm Nitheesh — friendly neighbourhood engineer.
+# Hello, I'm Nitheesh 👨‍💻👨‍🔬🧬 
 
 **The best technology is the kind you stop noticing.**
 
