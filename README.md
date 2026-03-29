@@ -15,7 +15,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitheeshx86-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitheeshx86)
-[![GitHub](https://img.shields.io/badge/GitHub-nitheeshx86-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitheeshx86)
 [![Email](https://img.shields.io/badge/Email-nitheesh.k2024%40vitstudent.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitheesh.k2024@vitstudent.ac.in)
 
 </div>
