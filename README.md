@@ -145,6 +145,36 @@ Recognised among the Top 3 Non-Startup Projects at VIT Chennai 2024 for developi
 
 ---
 
+## 🎯 Fun Facts
+
+- ✏️ I draw cars — not traced, no reference. Just memory + instinct.
+- 🔁 Current rotation:  
+  [HIMYM](https://www.imdb.com/title/tt0460649/) → 
+  [Friends](https://www.imdb.com/title/tt0108778/) → 
+  [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/) → 
+  [Modern Family](https://www.imdb.com/title/tt1442437/) (on loop)
+
+---
+
+### 📚 Books That Changed My Thinking
+
+- [The 4-Hour Work Week](https://fourhourworkweek.com/)
+- [Atomic Habits](https://jamesclear.com/atomic-habits)
+- [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
+- [The Power of Positive Thinking](https://en.wikipedia.org/wiki/The_Power_of_Positive_Thinking)
+- [The Power of Your Subconscious Mind](https://en.wikipedia.org/wiki/The_Power_of_Your_Subconscious_Mind)
+- [The Millionaire Fastlane](https://www.themillionairefastlane.com/)
+- [Building a Second Brain](https://www.buildingasecondbrain.com/)
+
+---
+
+### 🏝️ THE ONLY BOOK I'LL CARRY TO AN UN-MANED ISLAND
+
+📖 [Meditations — Marcus Aurelius](https://en.wikipedia.org/wiki/Meditations)
+
+---
+
+💡 *The reading list looks intense. The show list balances it out.*
 ## How it started
 
 There is a version of me that still hasn't given back that bricked Samsung Note 4 my uncle handed me in 4th standard. He said I could keep it if I fixed it. I had no idea what I was doing. Three forum threads and one firmware flash later, I had the coolest phone in my entire childhood gang. Nobody asked me to do it. That is still the most honest description of how I work.
