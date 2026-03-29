@@ -21,7 +21,7 @@
 
 ---
 
-Hi, I'm Nitheesh — friendly neighbourhood engineer.
+# Hi, I'm Nitheesh — friendly neighbourhood engineer.
 
 **The best technology is the kind you stop noticing.**
 
