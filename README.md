@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nitheesh%20K.&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=builder.%20researcher.%20occasional%20quantum%20person.&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:431407,50:c2410c,100:f97316&height=200&section=header&text=Nitheesh%20K.&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=builder.%20researcher.%20occasional%20quantum%20person.&descAlignY=58&descSize=16&descColor=fed7aa&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+things+that+matter.;Research+%E2%86%92+Real+world+impact.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=f97316&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+things+that+matter.;Research+%E2%86%92+Real+world+impact.)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,23 +15,16 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitheeshx86-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitheeshx86)
+[![GitHub](https://img.shields.io/badge/GitHub-nitheeshx86-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitheeshx86)
 [![Email](https://img.shields.io/badge/Email-nitheesh.k2024%40vitstudent.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitheesh.k2024@vitstudent.ac.in)
 
 </div>
 
 ---
 
-My uncle handed me his bricked Samsung Galaxy Note 4 when I was in 4th standard. Said I could keep it if I fixed it. I did not know what I was doing. I looked things up, found forums, flashed the firmware, and got it back to a stable OS. I had the coolest phone in my entire childhood gang for the next two years.
+There is a version of me that still hasn't given back that bricked Samsung Note 4 my uncle handed me in 4th standard. He said I could keep it if I fixed it. I had no idea what I was doing. Three forum threads and one firmware flash later, I had the coolest phone in my entire childhood gang. Nobody asked me to do it. That is still the most honest description of how I work.
 
-That same year, I put CyanogenMod on my Micromax phone, changed the boot animation, and replaced the boot sound with Rajini Murugan — which was, at the time, the only correct choice. Nobody asked me to do any of this. That is the part I keep coming back to.
-
-In 8th grade, I built a smart speaker using the Amazon Alexa API. I made a projector out of a cardboard box. I built a rubber band gun from paper just to see if it would work. I hacked my Redmi fitness band and programmed custom animations on it because the default ones were boring and the hardware was just sitting there, asking to be opened.
-
-None of this was for a grade or a certificate. It was just the most natural thing in the world to do with technology — take it apart, understand it, make it do something it was not doing before.
-
-I am still doing the same thing. The tools are more serious now. The problems have higher stakes. But the instinct is identical to the kid who flashed firmware on a bricked phone because someone said it could not be done.
-
-What a thing it is, to get to do this for a living.
+The problems are different now. The tools are heavier. But the loop is identical — something is broken, or boring, or could clearly be better, and I cannot just walk past it. That is how a researcher ends up with software that visualises her kidney stone data in 3D. That is how a fitness band ends up with custom animations nobody asked for. That is how you spend a weekend in 8th grade building a smart speaker from scratch because buying one felt like cheating.
 
 ---
 
@@ -75,8 +68,8 @@ What a thing it is, to get to do this for a living.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitheeshx86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshx86&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitheeshx86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshx86&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316"/>
 
 </div>
 
@@ -84,17 +77,7 @@ What a thing it is, to get to do this for a living.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitheeshx86&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nitheeshx86&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitheeshx86&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f97316&line=f97316&point=ffffff)
 
 </div>
 
@@ -102,6 +85,6 @@ What a thing it is, to get to do this for a living.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:c2410c,100:431407&height=120&section=footer&animation=fadeIn"/>
 
 </div>
