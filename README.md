@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nitheesh%20Karthikeyan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=builder.%20researcher.%20occasional%20quantum%20person.&descAlignY=58&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nitheesh%20Karthikeyan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=builder.%20researcher.%20occasional%20quantum%20person.&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+things+that+matter.;Research+%E2%86%92+Real+world+impact.;1st+%40+IBM+Qiskit+%7C+UN+Millennium+Fellow+%7C+Nokia+Campus+Connect)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,6 +17,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitheeshx86-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitheeshx86)
 [![GitHub](https://img.shields.io/badge/GitHub-nitheeshx86-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitheeshx86)
 [![Email](https://img.shields.io/badge/Email-nitheesh.k2024%40vitstudent.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitheesh.k2024@vitstudent.ac.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nitheeshx86&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -62,17 +70,7 @@ Real-time system to track and visualise seat availability across the VIT campus 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,react,nextjs,docker,tensorflow,pytorch,git,figma,nodejs,typescript&perline=6&theme=dark" />
 
 </div>
 
@@ -80,19 +78,15 @@ Real-time system to track and visualise seat availability across the VIT campus 
 
 ## 🏆 Things worth mentioning
 
-**IBM Qiskit Fall Fest** — 1st place nationally in 2024. Invited back in 2025 not as a participant, but as an International Judge and Teaching Instructor. Delivered quantum programming sessions to 100+ participants from 10+ countries. The room does not forgive approximation. Two years of that pressure built something specific.
-
-**Intel + Microsoft SAS Hackathon (HEC Montréal)** — World Rank 19. Optimised business outcomes by analysing user flow data and applying mathematical models to maximise profits and minimise losses.
-
-**Goldman Sachs Quantitative Finance Hackathon** — All India Rank 163. Built alpha-generating strategies using quantitative models to optimise returns and risk.
-
-**Nokia Campus Connect** — Selected as 1 of 5 students from VIT Chennai. Hands-on training in communication systems, ML, and computer science at the parent company of Bell Labs.
-
-**UN Millennium Fellow (2025)** — Top 4% of 60,000+ applicants. Selected on the basis of project history and social impact through technology.
-
-**Best Startup Idea Award (2025)** — Presented by Dr. Soumya Swaminathan, former Chief Scientist, World Health Organization.
-
-**Top 3 Non-Startup Projects, VIT Chennai 2024** — Pothole Detection System, iInventiv (IIT Madras).
+| | |
+|---|---|
+| ⚛️ **IBM Qiskit Fall Fest** | 1st place nationally in 2024. Invited back in 2025 as International Judge & Teaching Instructor. Delivered sessions to 100+ participants from 10+ countries. The room does not forgive approximation. |
+| 🌍 **Intel + Microsoft SAS Hackathon (HEC Montréal)** | World Rank 19. Optimised business outcomes using mathematical models on user flow data. |
+| 📈 **Goldman Sachs Quantitative Finance Hackathon** | All India Rank 163. Alpha-generating strategies using quantitative portfolio models. |
+| 📡 **Nokia Campus Connect** | 1 of 5 students selected from VIT Chennai. Parent company of Bell Labs. |
+| 🇺🇳 **UN Millennium Fellow (2025)** | Top 4% of 60,000+ applicants. Selected on the basis of project history and social impact through technology. |
+| 🏅 **Best Startup Idea Award (2025)** | Presented by Dr. Soumya Swaminathan, former Chief Scientist, World Health Organization. |
+| 🔩 **Top 3 Non-Startup Projects, VIT Chennai 2024** | Pothole Detection System, iInventiv (IIT Madras). |
 
 ---
 
@@ -100,14 +94,36 @@ Real-time system to track and visualise seat availability across the VIT campus 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitheeshx86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshx86&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitheeshx86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshx86&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nitheeshx86&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nitheeshx86&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitheeshx86&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitheeshx86/nitheeshx86/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitheeshx86/nitheeshx86/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nitheeshx86/nitheeshx86/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -123,6 +139,6 @@ Real-time system to track and visualise seat availability across the VIT campus 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 </div>
