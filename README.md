@@ -15,7 +15,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitheeshx86-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitheeshx86)
-[![GitHub](https://img.shields.io/badge/GitHub-nitheeshx86-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitheeshx86)
 [![Email](https://img.shields.io/badge/Email-nitheesh.k2024%40vitstudent.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitheesh.k2024@vitstudent.ac.in)
 
 </div>
@@ -81,12 +80,6 @@ What a thing it is, to get to do this for a living.
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nitheeshx86&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -97,15 +90,11 @@ What a thing it is, to get to do this for a living.
 
 ---
 
-## Contribution Snake
+## Trophies
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitheeshx86/nitheeshx86/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitheeshx86/nitheeshx86/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nitheeshx86/nitheeshx86/output/github-snake-dark.svg" />
-</picture>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nitheeshx86&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
