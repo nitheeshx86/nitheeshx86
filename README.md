@@ -148,8 +148,11 @@ Recognised among the Top 3 Non-Startup Projects at VIT Chennai 2024 for developi
 ## How it started
 
 There is a version of me that still hasn't given back that bricked Samsung Note 4 my uncle handed me in 4th standard. He said I could keep it if I fixed it. I had no idea what I was doing. Three forum threads and one firmware flash later, I had the coolest phone in my entire childhood gang. Nobody asked me to do it. That is still the most honest description of how I work.
+That same year, I put CyanogenMod on my Micromax phone, changed the boot animation, and replaced the boot sound with Rajini Murugan — which was, at the time, the only correct choice. In 8th grade, I built a smart speaker using the Amazon Alexa API. I made a projector out of a cardboard box. I built a rubber band gun from paper just to see if it would work. I hacked my Redmi fitness band and programmed custom animations on it because the default ones were boring and the hardware was just sitting there, asking to be opened.
+None of this was for a grade or a certificate. It was just the most natural thing in the world to do with technology — take it apart, understand it, make it do something it was not doing before.
+The problems are different now. The tools are heavier. The loop is identical.
 
-The problems are different now. The tools are heavier. But the loop is identical — something is broken, or boring, or could clearly be better, and I cannot just walk past it. That is how a researcher ends up with software that visualises her kidney stone data in 3D. That is how a fitness band ends up with custom animations nobody asked for. That is how you spend a weekend in 8th grade building a smart speaker from scratch because buying one felt like cheating.
+What a thing it is, to get paid for what you could not stop doing for free.
 
 ---
 
