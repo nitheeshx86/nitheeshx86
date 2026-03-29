@@ -22,9 +22,11 @@
 
 ---
 
-There is a version of me that still hasn't given back that bricked Samsung Note 4 my uncle handed me in 4th standard. He said I could keep it if I fixed it. I had no idea what I was doing. Three forum threads and one firmware flash later, I had the coolest phone in my entire childhood gang. Nobody asked me to do it. That is still the most honest description of how I work.
+**The best technology is the kind you stop noticing.**
 
-The problems are different now. The tools are heavier. But the loop is identical — something is broken, or boring, or could clearly be better, and I cannot just walk past it. That is how a researcher ends up with software that visualises her kidney stone data in 3D. That is how a fitness band ends up with custom animations nobody asked for. That is how you spend a weekend in 8th grade building a smart speaker from scratch because buying one felt like cheating.
+Not because it disappeared — but because it solved the problem so cleanly that the problem itself stops feeling like one. That is the standard I build toward. Clinical software that researchers just use. Drug discovery tools that pharmaceutical teams depend on. Systems deployed in the real world, doing the thing they were built to do, quietly.
+
+I am interested in the gap between a hard problem and the person trying to solve it. Software, when it is built well, closes that gap. That is the whole job.
 
 ---
 
@@ -80,6 +82,14 @@ The problems are different now. The tools are heavier. But the loop is identical
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitheeshx86&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f97316&line=f97316&point=ffffff)
 
 </div>
+
+---
+
+## How it started
+
+There is a version of me that still hasn't given back that bricked Samsung Note 4 my uncle handed me in 4th standard. He said I could keep it if I fixed it. I had no idea what I was doing. Three forum threads and one firmware flash later, I had the coolest phone in my entire childhood gang. Nobody asked me to do it. That is still the most honest description of how I work.
+
+The problems are different now. The tools are heavier. But the loop is identical — something is broken, or boring, or could clearly be better, and I cannot just walk past it. That is how a researcher ends up with software that visualises her kidney stone data in 3D. That is how a fitness band ends up with custom animations nobody asked for. That is how you spend a weekend in 8th grade building a smart speaker from scratch because buying one felt like cheating.
 
 ---
 
