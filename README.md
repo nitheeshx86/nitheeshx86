@@ -174,7 +174,7 @@ Recognised among the Top 3 Non-Startup Projects at VIT Chennai 2024 for developi
 
 ---
 
-💡 *The reading list looks intense. The show list balances it out.*
+Golden rule:  10 pages reading per day, 10mins journaling per day, 10mins of meditation per day
 ## How it started
 
 There is a version of me that still hasn't given back that bricked Samsung Note 4 my uncle handed me in 4th standard. He said I could keep it if I fixed it. I had no idea what I was doing. Three forum threads and one firmware flash later, I had the coolest phone in my entire childhood gang. Nobody asked me to do it. That is still the most honest description of how I work.
