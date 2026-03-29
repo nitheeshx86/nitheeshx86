@@ -22,6 +22,8 @@
 
 ---
 
+Hi, I'm Nitheesh — friendly neighbourhood engineer.
+
 **The best technology is the kind you stop noticing.**
 
 Not because it disappeared — but because it solved the problem so cleanly that the problem itself stops feeling like one. That is the standard I build toward. Clinical software that researchers just use. Drug discovery tools that pharmaceutical teams depend on. Systems deployed in the real world, doing the thing they were built to do, quietly.
@@ -38,8 +40,6 @@ I am interested in the gap between a hard problem and the person trying to solve
 
 **Quantum Fraud Detection** — Privacy-first fraud detection using quantum federated ML, built at Qinnovision 2025, NYU Abu Dhabi. The constraint was the interesting part. `Quantum ML` `Federated Learning` `PyTorch`
 
-**ML Library Seat Locator** — Real-time seat availability tracker, deployed in the VIT campus library. Small problem. Clean solution. Actually used. VP Award for it. `Computer Vision` `Python`
-
 ---
 
 ## Stack
@@ -54,15 +54,75 @@ I am interested in the gap between a hard problem and the person trying to solve
 
 ## Things worth mentioning
 
-| | |
-|---|---|
-| **IBM Qiskit Fall Fest** | 1st place nationally in 2024. Invited back in 2025 as International Judge & Teaching Instructor. Delivered sessions to 100+ participants from 10+ countries. The room does not forgive approximation. |
-| **Intel + Microsoft SAS Hackathon (HEC Montréal)** | World Rank 19. Optimised business outcomes using mathematical models on user flow data. |
-| **Goldman Sachs Quantitative Finance Hackathon** | All India Rank 163. Alpha-generating strategies using quantitative portfolio models. |
-| **Nokia Campus Connect** | 1 of 5 students selected from VIT Chennai. Parent company of Bell Labs. |
-| **UN Millennium Fellow (2025)** | Top 4% of 60,000+ applicants. Selected on the basis of project history and social impact through technology. |
-| **Best Startup Idea Award (2025)** | Presented by Dr. Soumya Swaminathan, former Chief Scientist, World Health Organization. |
-| **Top 3 Non-Startup Projects, VIT Chennai 2024** | Pothole Detection System, iInventiv (IIT Madras). |
+<details>
+<summary><b>⚛️ IBM Qiskit Fall Fest — National Winner & International Judge</b></summary>
+<br/>
+
+1st place nationally in 2024. Most people stop there. I was invited back in 2025 — not as a participant, but as an International Judge and Teaching Instructor. Delivered sessions to 100+ participants from 10+ countries. The room does not forgive approximation. Two years of that pressure built something specific.
+
+`Quantum Computing` `IBM Qiskit` `Teaching` `2024–2025`
+
+</details>
+
+<details>
+<summary><b>🌍 Intel + Microsoft SAS Hackathon (HEC Montréal) — World Rank 19</b></summary>
+<br/>
+
+Optimised business outcomes by analysing user flow data and applying mathematical models to maximise profits and minimise losses. World Rank 19. Not bad for a neighbourhood engineer.
+
+`Optimisation` `Mathematical Modelling` `HEC Montréal`
+
+</details>
+
+<details>
+<summary><b>📈 Goldman Sachs Quantitative Finance Hackathon — All India Rank 163</b></summary>
+<br/>
+
+Built alpha-generating strategies by analysing portfolio data and applying quantitative models to optimise returns and risk.
+
+`Quantitative Finance` `Portfolio Modelling` `Goldman Sachs`
+
+</details>
+
+<details>
+<summary><b>📡 Nokia Campus Connect — 1 of 5 Selected from VIT Chennai</b></summary>
+<br/>
+
+Selected as one of five students from VIT Chennai for Nokia's prestigious Campus Connect Program. Nokia is the present-day parent company of Bell Labs — the place where the transistor, Unix, C, and the laser were invented. Walking through that environment only sharpened what I already suspected about the kind of work I want to do.
+
+`Nokia` `Bell Labs` `Communication Systems` `ML`
+
+</details>
+
+<details>
+<summary><b>🇺🇳 United Nations Millennium Fellow (2025) — Top 4% of 60,000+ Applicants</b></summary>
+<br/>
+
+Selected among the top 4% from over 60,000 applicants on the basis of project history and measurable social impact through technology. Led sustainability advocacy through talks, initiatives, and project development aligned with the UN SDGs.
+
+`UN Academic Impact` `SDGs` `Social Impact` `2025`
+
+</details>
+
+<details>
+<summary><b>🏅 Best Startup Idea Award (2025)</b></summary>
+<br/>
+
+Presented by Dr. Soumya Swaminathan, former Chief Scientist of the World Health Organization. That is a sentence I did not expect to write.
+
+`Startup` `Innovation` `WHO` `2025`
+
+</details>
+
+<details>
+<summary><b>🔩 Top 3 Non-Startup Projects, VIT Chennai 2024 — iInventiv (IIT Madras)</b></summary>
+<br/>
+
+Recognised among the Top 3 Non-Startup Projects at VIT Chennai 2024 for developing a Pothole Detection System at IIT Madras iInventiv.
+
+`Computer Vision` `IIT Madras` `iInventiv` `2024`
+
+</details>
 
 ---
 
